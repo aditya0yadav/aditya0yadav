@@ -17,13 +17,6 @@ A passionate Software Developer Engineer with a proven ability to transform self
 - Enhanced server response time by 50% and reduced bandwidth usage by 30%.
 - Integrated **LRU Cache** and scalable class-based architecture for optimized performance.
 
-### **QMAPI - A Service by AcutusAI**
-- Increased survey completion rates by 7% using AI-powered insights.
-- Architected AWS-based infrastructure for high scalability and efficient traffic management.
-- Improved survey engagement by 30% and boosted client ROI by 25% through predictive data analytics and machine learning techniques.
-
----
-
 ## 🛠️ Technical Skills
 - **Languages**: Python, JavaScript, C++
 - **Frontend**: React
@@ -53,11 +46,7 @@ A passionate Software Developer Engineer with a proven ability to transform self
 
 ---
 
-## 📈 Achievements
-- Enhanced survey traffic flow optimization and engagement metrics through advanced data analysis.
-- Designed platforms connecting survey buyers and suppliers, streamlining processes and increasing ROI.
 
----
 
 ## 👨‍🏫 Tutoring Experience
 - Guided a student in Germany on **Machine Learning**, focusing on Python programming and foundational concepts like **Pandas**, **Numpy**, and **NLTK**.
