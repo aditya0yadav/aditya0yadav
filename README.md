@@ -64,10 +64,12 @@ Provided one-on-one guidance to international students in:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-brightgreen?style=flat-square&logo=github)
-![Profile Views](https://img.shields.io/badge/Profile-Views-blue?style=flat-square)
-![Total Commits](https://img.shields.io/badge/Total-Commits-orange?style=flat-square)
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=2580Aditya&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2580Aditya&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2580Aditya&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
