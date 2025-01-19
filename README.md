@@ -18,19 +18,41 @@ I'm a passionate Software Developer Engineer who thrives on transforming innovat
 - 💡 Passionate about combining AI technologies with practical software solutions
 - 🤝 Open to collaborating on innovative projects and knowledge sharing
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Development Skills
 ```python
-tech_stack = {
-    "Languages": ["Python", "JavaScript", "C++"],
-    "Frontend": ["React", "HTML5", "CSS3"],
-    "Backend": ["Django", "FastAPI", "Express"],
+{
+    "Frontend": ["React", "HTML5", "CSS3", "JavaScript"],
+    "Backend": ["Django", "FastAPI", "Express.js", "RESTful APIs"],
     "Database": ["MySQL", "Redis"],
-    "Cloud & DevOps": ["AWS", "Docker", "CI/CD", "GitHub"],
-    "AI & ML": ["ChatGPT API", "LangChain", "Generative AI"],
-    "Core Skills": ["REST APIs", "OOP", "Multi-threading", "Microservices"]
+    "DevOps": ["AWS", "Docker", "CI/CD", "GitHub"],
+    "AI & ML": ["ChatGPT API", "LangChain", "Machine Learning"],
+    "Core": ["OOP", "Multi-threading", "Microservices"]
 }
 ```
+
+</div>
 
 ## 💼 Professional Experience
 
