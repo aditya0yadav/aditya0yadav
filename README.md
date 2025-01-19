@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-adiworkprofile%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adiworkprofile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/2580aditya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-purple?style=flat-square&logo=aboutdotme)](https://portfolio-x41c.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2580Aditya-black?style=flat-square&logo=github)](https://github.com/2580Aditya)
+[![GitHub](https://img.shields.io/badge/GitHub-2580Aditya-black?style=flat-square&logo=github)](https://github.com/aditya0yadav)
 </div>
 
 ## About Me 🚀
