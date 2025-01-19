@@ -61,17 +61,6 @@ Provided one-on-one guidance to international students in:
 - Data Analysis with Pandas & NumPy
 - Natural Language Processing with NLTK
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=2580Aditya&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2580Aditya&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2580Aditya&theme=radical)](https://git.io/streak-stats)
-
-</div>
 
 ## 🤝 Let's Connect!
 
