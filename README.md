@@ -68,7 +68,6 @@ class AdityaYadav:
 ## Current Learning Path 📚
 
 - 📖 Advanced Large Language Models
-- 🎓 Mathematics for Machine Learning
 - 🌐 Distributed Systems
 - 🤖 Reinforcement Learning
 
