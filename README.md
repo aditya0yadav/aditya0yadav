@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-adiworkprofile%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adiworkprofile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/2580aditya/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-purple?style=flat-square&logo=aboutdotme)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-purple?style=flat-square&logo=aboutdotme)]([https://your-portfolio-url.com](https://portfolio-x41c.onrender.com))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-username)
 
 </div>
@@ -37,15 +37,13 @@ class AdityaYadav:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Full Stack Development
+### Full Stack Development & Cloud & DevOps
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
