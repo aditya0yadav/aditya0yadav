@@ -65,11 +65,6 @@ class AdityaYadav:
 - Processed 100K+ responses with 95% accuracy
 - Tech: Python, FastAPI, LangChain, AWS
 
-### Intelligent Learning Platform
-- Developed adaptive learning system with personalized recommendations
-- Improved student engagement by 35%
-- Tech: React, Django, Machine Learning
-
 ## Current Learning Path 📚
 
 - 📖 Advanced Large Language Models
