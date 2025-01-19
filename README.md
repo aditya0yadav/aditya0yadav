@@ -11,12 +11,6 @@ A passionate Software Developer Engineer with a proven ability to transform self
 
 ---
 
-## 🚀 Projects
-### **Web Proxy Caching Server**
-- Designed a modular web proxy caching server using **Python** and **FastAPI**.
-- Enhanced server response time by 50% and reduced bandwidth usage by 30%.
-- Integrated **LRU Cache** and scalable class-based architecture for optimized performance.
-
 ## 🛠️ Technical Skills
 - **Languages**: Python, JavaScript, C++
 - **Frontend**: React
