@@ -1,102 +1,102 @@
 <div align="center">
   
-# 👨‍💻 Aditya Yadav
-### Software Developer Engineer | AI Enthusiast | Full Stack Developer
+# Aditya Yadav
+### AI Engineer & Full Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-adiworkprofile%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:adiworkprofile@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/2580aditya/)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_8920735656-green?style=flat-square&logo=phone)](tel:+918920735656)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-purple?style=flat-square&logo=aboutdotme)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-username)
 
 </div>
 
-## 🌟 About Me
+## About Me 🚀
 
-I'm a passionate Software Developer Engineer who thrives on transforming innovative ideas into impactful solutions. With a unique combination of self-taught expertise and formal education in Machine Learning and Mathematics, I bring a comprehensive approach to software development.
+AI Engineer and Full Stack Developer passionate about building intelligent, scalable solutions. Currently spearheading AI initiatives at AcutusAI while pursuing dual degrees in Machine Learning and Mathematics.
 
-- 🔭 Currently working on AI-powered survey analysis systems at AcutusAI
-- 🌱 Pursuing dual degrees in Machine Learning (IIT Madras) and Mathematics (Delhi University)
-- 💡 Passionate about combining AI technologies with practical software solutions
-- 🤝 Open to collaborating on innovative projects and knowledge sharing
+```python
+class AdityaYadav:
+    def __init__(self):
+        self.role = "AI Engineer & Full Stack Developer"
+        self.location = "India"
+        self.current_focus = ["LLMs", "Full Stack Development", "Cloud Architecture"]
+        self.education = {
+            "IIT Madras": "B.Sc. Machine Learning",
+            "Delhi University": "B.Sc. Mathematics"
+        }
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+```
 
-## 🛠️ Technical Skills
-<div align="center">
+## Tech Arsenal ⚡
 
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Full Stack Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+## Professional Impact 💼
 
-### Development Skills
-```python
-{
-    "Frontend": ["React", "HTML5", "CSS3", "JavaScript"],
-    "Backend": ["Django", "FastAPI", "Express.js", "RESTful APIs"],
-    "Database": ["MySQL", "Redis"],
-    "DevOps": ["AWS", "Docker", "CI/CD", "GitHub"],
-    "AI & ML": ["ChatGPT API", "LangChain", "Machine Learning"],
-    "Core": ["OOP", "Multi-threading", "Microservices"]
-}
-```
-
-</div>
-
-## 💼 Professional Experience
-
-### Software Developer Engineer @ AcutusAI Insights Pvt. Ltd.
+### AI Engineer @ AcutusAI Insights
 `Aug 2024 - Present`
 
-🎯 **Key Achievements:**
-- Architected and implemented QMAPI, driving a 7% increase in survey completion rates
-- Engineered an AI-powered prescreening system, boosting accuracy by 25%
-- Designed scalable AWS infrastructure to enhance platform reliability
-- Integrated ChatGPT API for advanced natural language processing capabilities
+- 🎯 Engineered QMAPI platform, achieving **7% increase** in survey completion rates
+- 🤖 Developed AI-powered prescreening system with **25% accuracy improvement**
+- ☁️ Designed scalable AWS infrastructure handling **10K+ daily requests**
+- 🔄 Implemented CI/CD pipelines reducing deployment time by **40%**
 
-## 🎓 Educational Journey
+## Featured Projects 🛠️
 
-- 🎯 **B.Sc. in Machine Learning and Data Science**
-  - Indian Institute of Technology, Madras
-  - 2023 - Present
-  
-- 📚 **B.Sc. in Mathematics**
-  - Delhi University
-  - 2024 - Present
+### AI Survey Analyzer
+- Built end-to-end survey analysis system using LLMs
+- Processed 100K+ responses with 95% accuracy
+- Tech: Python, FastAPI, LangChain, AWS
 
-## 👨‍🏫 Mentorship & Teaching
+### Intelligent Learning Platform
+- Developed adaptive learning system with personalized recommendations
+- Improved student engagement by 35%
+- Tech: React, Django, Machine Learning
 
-Provided one-on-one guidance to international students in:
-- Advanced Python Programming
-- Machine Learning Fundamentals
-- Data Analysis with Pandas & NumPy
-- Natural Language Processing with NLTK
+## Current Learning Path 📚
 
+- 📖 Advanced Large Language Models
+- 🎓 Mathematics for Machine Learning
+- 🌐 Distributed Systems
+- 🤖 Reinforcement Learning
 
-## 🤝 Let's Connect!
+## Let's Connect! 🤝
 
-I'm always excited to:
-- 💡 Collaborate on innovative projects
-- 🌱 Share knowledge and learn from others
-- 🔨 Build impactful software solutions
-- 🤖 Explore cutting-edge AI technologies
-
-Feel free to reach out through any of the channels above!
+```python
+def connect_with_me():
+    """
+    I'm always excited to:
+    - 🤝 Collaborate on AI/ML projects
+    - 💡 Share knowledge and learn together
+    - 🚀 Build impactful solutions
+    """
+    return "Let's create something amazing!"
+```
 
 ---
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://github.com/your-username)
+
+*"The best way to predict the future is to create it." – Peter Drucker*
 
 </div>
