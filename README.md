@@ -95,8 +95,6 @@ def connect_with_me():
 ---
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://github.com/your-username)
-
 *"The best way to predict the future is to create it." – Peter Drucker*
 
 </div>
