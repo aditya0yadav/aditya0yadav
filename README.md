@@ -1,15 +1,19 @@
-<h1 align="center">Aditya Yadav | AI Engineer & Full Stack Developer 🚀</h1>
-
+<h1 align="center"><span style="color:#FF6B6B">Aditya</span> <span style="color:#4ECDC4">Yadav</span> <span style="color:#45B7D1">|</span> <span style="color:#96CEB4">AI</span> <span style="color:#FF8C42">Engineer</span> <span style="color:#6C5B7B">&</span> <span style="color:#4EA5D9">Full</span> <span style="color:#FF6B6B">Stack</span> <span style="color:#4ECDC4">Developer</span> <span style="color:#FF8C42">🚀</span></h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/2580aditya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portfolio-x41c.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:adiworkprofile@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <a href="https://www.linkedin.com/in/2580aditya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolio-x41c.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:adiworkprofile@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
 
 ```python
 class AdityaYadav:
     def __init__(self):
-        self.role = "AI Engineer @ AcutusAI"
+        self.role = "Software Engineer @ AcutusAI"
         self.focus = ["ML", "Mathematics", "Scalable AI Solutions"]
         self.impact = {"QMAPI Platform": "7% ↑", "AI Prescreening": "25% ↑"}
         self.stack = {
