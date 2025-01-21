@@ -14,14 +14,16 @@
 class AdityaYadav:
     def __init__(self):
         self.role = "Software Engineer @ AcutusAI"
+        self.extracurricular = "Tutor @ Machine Learning"
         self.focus = ["ML", "Mathematics", "Scalable AI Solutions"]
         self.impact = {"QMAPI Platform": "7% ↑", "AI Prescreening": "25% ↑"}
         self.stack = {
             "AI/ML": ["LangChain", "PyTorch", "TensorFlow"],
-            "Backend": ["Python", "Django", "FastAPI"],
-            "Frontend": ["React", "TypeScript"],
+            "Backend": ["Express", "Python", "Django", "FastAPI" ],
+            "Frontend": ["React", "TypeScript", "Javascript"],
             "Cloud": ["AWS", "Docker", "K8s"]
         }
+
 ```
 
 <p align="center">
