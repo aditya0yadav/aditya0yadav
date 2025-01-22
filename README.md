@@ -14,7 +14,7 @@
 class AdityaYadav:
     def __init__(self):
         self.role = "Software Engineer @ AcutusAI"
-        self.extracurricular = ["Tutor @ Machine Learning", "Open Source Contributor"]
+        self.extracurricular = ["Tutor @ Machine Learning", "Open Source Contributor",, "Freelancer @ Full Stack Developer"]
         self.focus = ["ML", "Mathematics", "Scalable AI Solutions"]
         self.impact = {"QMAPI Platform": "7% ↑", "AI Prescreening": "25% ↑"}
         self.stack = {
