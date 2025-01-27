@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#FF6B6B">Aditya</span> <span style="color:#4ECDC4">Yadav | </span>  <span style="color:#96CEB4">Software</span> <span style="color:#FF8C42">Engineer</span> </h1>
+<span style="color:#FF6B6B">Aditya</span> <span style="color:#4ECDC4">Yadav | </span>  <span style="color:#96CEB4">Software</span> <span style="color:#FF8C42">Engineer</span> </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
