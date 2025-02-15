@@ -29,10 +29,6 @@ class AdityaYadav:
             "Freelancer @ Full Stack Developer"
         ]
         self.focus = ["ML", "Mathematics", "Scalable AI Solutions"]
-        self.impact = {
-            "QMAPI Platform": "7% ↑", 
-            "AI Prescreening": "25% ↑"
-        }
         self.stack = {
             "AI/ML": ["LangChain", "PyTorch", "TensorFlow"],
             "Backend": ["Express", "Python", "Django", "FastAPI"],
