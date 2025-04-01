@@ -1,4 +1,4 @@
-<div align="center">
+<div  align="center">
   <h1>Aditya Yadav| <span style="color:#96CEB4">Software</span> <span style="color:#FF8C42">Engineer</span></h1>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
