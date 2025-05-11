@@ -22,7 +22,7 @@
 ```python
 class AdityaYadav:
     def __init__(self):
-        self.role = "Software Engineer @ AcutusAI"
+        self.role = ["Software Engineer @ AcutusAI", GSoc @Apache]
         self.extracurricular = [
             "Tutor @ Machine Learning", 
             "Open Source Contributor", 
