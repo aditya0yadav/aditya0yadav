@@ -4,7 +4,7 @@ import subprocess
 import re
 
 # Path to your local GitHub repo
-REPO_PATH = os.path.join(os.getcwd(), "aditya0yadav")
+REPO_PATH = os.getcwd()
 README_PATH = os.path.join(REPO_PATH, "README.md")
 
 def update_readme():
