@@ -1,0 +1,32 @@
+name: Daily README Update
+
+# Schedule the workflow to run daily at 12 AM IST
+on:
+  schedule:
+    # Cron is in UTC. IST = UTC+5:30 → 12 AM IST = 18:30 UTC previous day
+    - cron: '30 18 * * *'
+  workflow_dispatch: # allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run main.py
+        run: python3 main.py
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "aditya0yadav"
+          git config --global user.email "adiworkprofile@gmail.com"
+          git add README.md
+          git commit -m "Update README.md" || echo "No changes to commit"
+          git push
