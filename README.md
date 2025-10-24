@@ -26,7 +26,7 @@ class AdityaYadav:
             "Google Summer of Code 2025 Contributor @ Apache Software Foundation"
         ]
         self.past = ["Software Engineer @ AcutusAI"]
-        self.date = "23 October 2025"
+        self.date = "24 October 2025"
         self.focus = [
             "Machine Learning", 
             "Mathematical Modeling", 
