@@ -1,15 +1,11 @@
 import os
 import datetime
-import subprocess
 import re
 
-# Path to your local GitHub repo
-REPO_PATH = os.getcwd()
-README_PATH = os.path.join(REPO_PATH, "README.md")
+README_PATH = os.path.join(os.getcwd(), "README.md")
 
 def update_readme():
-    today = datetime.datetime.now().strftime("%d %B %Y")  # e.g., 24 October 2025
-
+    today = datetime.datetime.now().strftime("%d %B %Y")
     with open(README_PATH, "r") as f:
         content = f.read()
 
@@ -24,16 +20,5 @@ def update_readme():
 
     print(f"✅ Updated README with date: {today}")
 
-def git_commit():
-    os.chdir(REPO_PATH)
-    subprocess.run(["git", "add", "README.md"])
-    subprocess.run([
-        "git", "commit", "-m",
-        f"Updated README: {datetime.datetime.now().strftime('%Y-%m-%d')}"
-    ])
-    subprocess.run(["git", "push", "origin", "main"])
-    print("🚀 Changes pushed to GitHub successfully")
-
 if __name__ == "__main__":
     update_readme()
-    git_commit()

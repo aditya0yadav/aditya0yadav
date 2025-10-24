@@ -2,24 +2,26 @@ name: Daily README Update
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # 12 AM IST daily
+    # 12 AM IST = 18:30 UTC previous day
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # we'll use our own token
+          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      - name: Run main.py
+      - name: Update README
         run: python3 main.py
 
       - name: Commit & Push changes
