@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit & Push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "aditya0yadav"
+          git config user.email "adiworkprofile@gmail.com"
           git add README.md
-          git commit -m "Update README.md update" || echo "No changes to commit"
+          git commit -m "Automated daily update" || echo "No changes to commit"
           git push
