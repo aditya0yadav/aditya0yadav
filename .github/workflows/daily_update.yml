@@ -12,10 +12,19 @@ jobs:
       contents: write
 
     steps:
+      - name: Debug token presence
+        run: |
+          if [ -z "${{ secrets.GITHUB_TOKEN }}" ]; then
+            echo "❌ GITHUB_TOKEN is EMPTY"
+            exit 1
+          else
+            echo "✅ GITHUB_TOKEN is present"
+          fi
+
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
